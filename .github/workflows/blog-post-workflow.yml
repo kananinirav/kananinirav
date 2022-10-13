@@ -14,4 +14,5 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: "50"
           feed_list: "https://medium.com/feed/@kanani-nirav"
