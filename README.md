@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kananinirav&color=green)
+
 - 👋 Hi, I’m @kananinirav
 - 👀 I'm interested in Learning New Technology
 - Professional Ruby On Rails Developer
