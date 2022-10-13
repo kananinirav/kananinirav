@@ -19,9 +19,9 @@
 
 <p><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kananinirav&show_icons=true&theme=radical&count_private=true" alt="kananinirav" /></p>
+<img align="left" width='46%' src="https://github-readme-stats.vercel.app/api?username=kananinirav&show_icons=true&theme=radical&count_private=true" alt="kananinirav" />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kananinirav&show_icons=true&locale=en&layout=compact" alt="kananinirav" /></p>
+<p><img width='40%' src="https://github-readme-stats.vercel.app/api/top-langs?username=kananinirav&show_icons=true&locale=en&layout=compact" alt="kananinirav" /></p>
 <br />
 
 ## 📚 Blogs Posts
