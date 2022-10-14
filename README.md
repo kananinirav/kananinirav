@@ -24,7 +24,7 @@
 <p><img width='40%' src="https://github-readme-stats.vercel.app/api/top-langs?username=kananinirav&show_icons=true&locale=en&layout=compact" alt="kananinirav" /></p>
 <br />
 
-## 📚 Blogs Posts
+## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
 - [AWS Cloud Practitioner Exam Short Notes—A study guide](https://medium.com/@kanani-nirav/aws-cloud-practitioner-exam-short-notes-a-study-guide-b8dcbebb292e?source=rss-9ad7dce5400b------2)
 - [Rack-attack gem setup to protect Rails and Rack apps from bad clients](https://medium.com/@kanani-nirav/rack-attack-gem-setup-to-protect-rails-and-rack-apps-from-bad-clients-66ad8b667c5e?source=rss-9ad7dce5400b------2)
