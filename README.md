@@ -49,3 +49,6 @@
 </p>
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kananinirav&" alt="kananinirav" /></p>
+
+#### If you find the content is interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
+<a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
