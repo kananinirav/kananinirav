@@ -47,3 +47,5 @@
 <a href="/https://medium.com/feed/@kanani-nirav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@kanani-nirav" height="30" width="40" /></a>
 <a href="https://twitter.com/kananinirav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kananinirav1" height="30" width="40" /></a>
 </p>
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kananinirav&" alt="kananinirav" /></p>

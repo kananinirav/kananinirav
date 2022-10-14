@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every Day At 00:00 
+    - cron: '0 0 * * 1' # Runs At 00:00 on every Monday 
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
@@ -14,5 +14,5 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "50"
+          max_post_count: 50
           feed_list: "https://medium.com/feed/@kanani-nirav"
