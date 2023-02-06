@@ -21,7 +21,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [35 Windows Commands you NEED to know with examples and explanation](https://blog.devgenius.io/35-windows-commands-you-need-to-know-with-examples-and-explanation-d4bedb3c3508?source=rss-9ad7dce5400b------2)
+- [35 Windows Commands you NEED to know with examples and explanation](https://medium.com/@kanani-nirav/35-windows-commands-you-need-to-know-with-examples-and-explanation-d4bedb3c3508?source=rss-9ad7dce5400b------2)
 - [50 Linux Commands every developer NEED to know with example](https://blog.devgenius.io/50-linux-commands-every-developer-need-to-know-with-example-891828f1b0d0?source=rss-9ad7dce5400b------2)
 - [AWS Cloud Practitioner Exam Short Notes—A study guide](https://medium.com/@kanani-nirav/aws-cloud-practitioner-exam-short-notes-a-study-guide-b8dcbebb292e?source=rss-9ad7dce5400b------2)
 - [Rack-attack gem setup to protect Rails and Rack apps from bad clients](https://medium.com/@kanani-nirav/rack-attack-gem-setup-to-protect-rails-and-rack-apps-from-bad-clients-66ad8b667c5e?source=rss-9ad7dce5400b------2)
