@@ -21,6 +21,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [Git Rebase vs Git Merge, Which One is the Best Option?](https://medium.com/@kanani-nirav/git-rebase-vs-git-merge-which-one-is-the-best-option-b61a4b389f5d?source=rss-9ad7dce5400b------2)
 - [35 Windows Commands you NEED to know with examples and explanation](https://medium.com/@kanani-nirav/35-windows-commands-you-need-to-know-with-examples-and-explanation-d4bedb3c3508?source=rss-9ad7dce5400b------2)
 - [50 Linux Commands every developer NEED to know with example](https://blog.devgenius.io/50-linux-commands-every-developer-need-to-know-with-example-891828f1b0d0?source=rss-9ad7dce5400b------2)
 - [AWS Cloud Practitioner Exam Short Notes—A study guide](https://medium.com/@kanani-nirav/aws-cloud-practitioner-exam-short-notes-a-study-guide-b8dcbebb292e?source=rss-9ad7dce5400b------2)
@@ -30,7 +31,6 @@
 - [Create an EC2 Instance with Ruby installation Using AWS CloudFormation](https://blog.devgenius.io/create-an-ec2-instance-with-ruby-installation-using-aws-cloudformation-abc5aa8da0c8?source=rss-9ad7dce5400b------2)
 - [Deploy a React App to Amazon S3 using Github Actions And Bitbucket Pipelines](https://blog.devgenius.io/deploy-a-react-app-to-amazon-s3-using-github-actions-and-bitbucket-pipelines-74791ae10a7c?source=rss-9ad7dce5400b------2)
 - [Form validations in Ruby On Rails Application.](https://medium.com/@kanani-nirav/form-validations-in-ruby-on-rails-application-6c06d1b02339?source=rss-9ad7dce5400b------2)
-- [Debugging a Ruby On Rails Application in Visual Studio Code](https://medium.com/@kanani-nirav/debugging-a-ruby-on-rails-application-in-visual-studio-code-b99ce8140ee7?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
