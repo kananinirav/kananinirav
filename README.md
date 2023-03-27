@@ -21,7 +21,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with GitHub Actions: A Beginner’s Guide](https://medium.com/@kanani-nirav/getting-started-with-github-actions-a-beginners-guide-81629c543798?source=rss-9ad7dce5400b------2)
+- [Getting Started with GitHub Actions: A Beginner’s Guide](https://blog.devgenius.io/getting-started-with-github-actions-a-beginners-guide-81629c543798?source=rss-9ad7dce5400b------2)
 - [Git Rebase vs Git Merge, Which One is the Best Option?](https://medium.com/@kanani-nirav/git-rebase-vs-git-merge-which-one-is-the-best-option-b61a4b389f5d?source=rss-9ad7dce5400b------2)
 - [35 Windows Commands you NEED to know with examples and explanation](https://medium.com/@kanani-nirav/35-windows-commands-you-need-to-know-with-examples-and-explanation-d4bedb3c3508?source=rss-9ad7dce5400b------2)
 - [50 Linux Commands every developer NEED to know with example](https://blog.devgenius.io/50-linux-commands-every-developer-need-to-know-with-example-891828f1b0d0?source=rss-9ad7dce5400b------2)
