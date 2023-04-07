@@ -22,6 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [The Five Lines of Code Principle: Why Less is More in Programming](https://medium.com/@kanani-nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-12ff4446205?source=rss-9ad7dce5400b------2)
 - [Getting Started with GitHub Actions: A Beginner’s Guide](https://blog.devgenius.io/getting-started-with-github-actions-a-beginners-guide-81629c543798?source=rss-9ad7dce5400b------2)
 - [Git Rebase vs Git Merge, Which One is the Best Option?](https://medium.com/@kanani-nirav/git-rebase-vs-git-merge-which-one-is-the-best-option-b61a4b389f5d?source=rss-9ad7dce5400b------2)
 - [35 Windows Commands you NEED to know with examples and explanation](https://medium.com/@kanani-nirav/35-windows-commands-you-need-to-know-with-examples-and-explanation-d4bedb3c3508?source=rss-9ad7dce5400b------2)
@@ -31,7 +32,6 @@
 - [How to Implement Custom ActiveRecord Validations — Rails](https://medium.com/@kanani-nirav/how-to-implement-custom-activerecord-validations-rails-485ff2695731?source=rss-9ad7dce5400b------2)
 - [Github Pre-commit Hook Setup In Ruby On Rails.](https://medium.com/@kanani-nirav/github-pre-commit-hook-setup-in-ruby-on-rails-2aa65f6b328b?source=rss-9ad7dce5400b------2)
 - [Create an EC2 Instance with Ruby installation Using AWS CloudFormation](https://blog.devgenius.io/create-an-ec2-instance-with-ruby-installation-using-aws-cloudformation-abc5aa8da0c8?source=rss-9ad7dce5400b------2)
-- [Deploy a React App to Amazon S3 using Github Actions And Bitbucket Pipelines](https://blog.devgenius.io/deploy-a-react-app-to-amazon-s3-using-github-actions-and-bitbucket-pipelines-74791ae10a7c?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
