@@ -22,6 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [Git Cheat Sheet: Essential Commands for Effective Code Management](https://medium.com/@kanani-nirav/git-cheat-sheet-essential-commands-for-effective-code-management-82ce06f3e70b?source=rss-9ad7dce5400b------2)
 - [How to Monitor and Alert Docker Container Status on EC2 for High Availability](https://medium.com/cloud-native-daily/how-to-monitor-and-alert-docker-container-status-on-ec2-for-high-availability-475b0b65e04?source=rss-9ad7dce5400b------2)
 - [The Five Lines of Code Principle: Why Less is More in Programming](https://medium.com/@kanani-nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-12ff4446205?source=rss-9ad7dce5400b------2)
 - [Getting Started with GitHub Actions: A Beginner’s Guide](https://blog.devgenius.io/getting-started-with-github-actions-a-beginners-guide-81629c543798?source=rss-9ad7dce5400b------2)
@@ -31,7 +32,6 @@
 - [AWS Cloud Practitioner Exam Short Notes—A study guide](https://medium.com/@kanani-nirav/aws-cloud-practitioner-exam-short-notes-a-study-guide-b8dcbebb292e?source=rss-9ad7dce5400b------2)
 - [Rack-attack gem setup to protect Rails and Rack apps from bad clients](https://medium.com/@kanani-nirav/rack-attack-gem-setup-to-protect-rails-and-rack-apps-from-bad-clients-66ad8b667c5e?source=rss-9ad7dce5400b------2)
 - [How to Implement Custom ActiveRecord Validations — Rails](https://medium.com/@kanani-nirav/how-to-implement-custom-activerecord-validations-rails-485ff2695731?source=rss-9ad7dce5400b------2)
-- [Github Pre-commit Hook Setup In Ruby On Rails.](https://medium.com/@kanani-nirav/github-pre-commit-hook-setup-in-ruby-on-rails-2aa65f6b328b?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
