@@ -22,7 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Prompts: A Guide for Developers ‍](https://medium.com/@kanani-nirav/chatgpt-prompts-a-guide-for-developers-367178e83573?source=rss-9ad7dce5400b------2)
+- [ChatGPT Prompts: A Guide for Developers ‍](https://blog.devgenius.io/chatgpt-prompts-a-guide-for-developers-367178e83573?source=rss-9ad7dce5400b------2)
 - [Secret To Optimizing SQL Queries — Understand The SQL Execution Order](https://medium.com/@kanani-nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-afda6788e537?source=rss-9ad7dce5400b------2)
 - [Git Cheat Sheet: Essential Commands for Effective Code Management](https://blog.devgenius.io/git-cheat-sheet-essential-commands-for-effective-code-management-82ce06f3e70b?source=rss-9ad7dce5400b------2)
 - [How to Monitor and Alert Docker Container Status on EC2 for High Availability](https://medium.com/cloud-native-daily/how-to-monitor-and-alert-docker-container-status-on-ec2-for-high-availability-475b0b65e04?source=rss-9ad7dce5400b------2)
