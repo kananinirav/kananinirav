@@ -22,6 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Dev Deletes Entire Production Database](https://medium.com/@kanani-nirav/gitlab-dev-deletes-entire-production-database-719756f4a2ce?source=rss-9ad7dce5400b------2)
 - [ChatGPT Prompts: A Guide for Developers ‍](https://blog.devgenius.io/chatgpt-prompts-a-guide-for-developers-367178e83573?source=rss-9ad7dce5400b------2)
 - [Secret To Optimizing SQL Queries — Understand The SQL Execution Order](https://medium.com/@kanani-nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-afda6788e537?source=rss-9ad7dce5400b------2)
 - [Git Cheat Sheet: Essential Commands for Effective Code Management](https://blog.devgenius.io/git-cheat-sheet-essential-commands-for-effective-code-management-82ce06f3e70b?source=rss-9ad7dce5400b------2)
@@ -31,7 +32,6 @@
 - [Git Rebase vs Git Merge, Which One is the Best Option?](https://blog.devgenius.io/git-rebase-vs-git-merge-which-one-is-the-best-option-b61a4b389f5d?source=rss-9ad7dce5400b------2)
 - [35 Windows Commands you NEED to know with examples and explanation](https://medium.com/@kanani-nirav/35-windows-commands-you-need-to-know-with-examples-and-explanation-d4bedb3c3508?source=rss-9ad7dce5400b------2)
 - [50 Linux Commands every developer NEED to know with example](https://blog.devgenius.io/50-linux-commands-every-developer-need-to-know-with-example-891828f1b0d0?source=rss-9ad7dce5400b------2)
-- [AWS Cloud Practitioner Exam Short Notes—A study guide](https://medium.com/@kanani-nirav/aws-cloud-practitioner-exam-short-notes-a-study-guide-b8dcbebb292e?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
