@@ -22,7 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [Monorepo vs Microrepo: How to Choose the Best Repository Structure for Your Code](https://medium.com/@kanani-nirav/monorepo-vs-microrepo-how-to-choose-the-best-repository-structure-for-your-code-6a85ff14390?source=rss-9ad7dce5400b------2)
+- [Monorepo vs Microrepo: How to Choose the Best Repository Structure for Your Code](https://blog.stackademic.com/monorepo-vs-microrepo-how-to-choose-the-best-repository-structure-for-your-code-6a85ff14390?source=rss-9ad7dce5400b------2)
 - [GitLab Dev Deletes Entire Production Database](https://medium.com/@kanani-nirav/gitlab-dev-deletes-entire-production-database-719756f4a2ce?source=rss-9ad7dce5400b------2)
 - [ChatGPT Prompts: A Guide for Developers ‍](https://medium.com/@kanani-nirav/chatgpt-prompts-a-guide-for-developers-367178e83573?source=rss-9ad7dce5400b------2)
 - [Secret To Optimizing SQL Queries — Understand The SQL Execution Order](https://blog.devgenius.io/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-afda6788e537?source=rss-9ad7dce5400b------2)
