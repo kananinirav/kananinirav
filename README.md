@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirav Kanani</h1>
+<h1 align="center">Hi 👋, I'm Kanani Nirav</h1>
 <h3 align="center">Professional Ruby On Rails Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
 
