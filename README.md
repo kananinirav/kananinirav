@@ -22,7 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://medium.com/@kanani-nirav/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-be6f7991df24?source=rss-9ad7dce5400b------2)
+- [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://blog.devgenius.io/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-be6f7991df24?source=rss-9ad7dce5400b------2)
 - [The Ultimate Markdown Cheat Sheet: A Blogger’s Best Friend](https://medium.com/@kanani-nirav/the-ultimate-markdown-cheat-sheet-a-bloggers-best-friend-e8d0c2594dcc?source=rss-9ad7dce5400b------2)
 - [Monorepo vs Microrepo: How to Choose the Best Repository Structure for Your Code](https://blog.devgenius.io/monorepo-vs-microrepo-how-to-choose-the-best-repository-structure-for-your-code-6a85ff14390?source=rss-9ad7dce5400b------2)
 - [GitLab Dev Deletes Entire Production Database](https://medium.com/@kanani-nirav/gitlab-dev-deletes-entire-production-database-719756f4a2ce?source=rss-9ad7dce5400b------2)
