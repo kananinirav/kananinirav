@@ -33,6 +33,7 @@
 - [How to Monitor and Alert Docker Container Status on EC2 for High Availability](https://medium.com/cloud-native-daily/how-to-monitor-and-alert-docker-container-status-on-ec2-for-high-availability-475b0b65e04?source=rss-9ad7dce5400b------2)
 - [The Five Lines of Code Principle: Why Less is More in Programming](https://medium.com/@kanani-nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-12ff4446205?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
+**[🔗 For More Blogs](https://medium.com/@kanani-nirav)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +44,10 @@
 <a href="https://twitter.com/kananinirav1" target="blank"><img align="center" src="./icons/twitter.svg" alt="kananinirav1" height="30" width="40" /></a>
 </p>
 
-## Android Apps on Google Play
+<details markdown=1>
+  <summary markdown='span'>
+    <h2>Android Apps on Google Play</h2>
+  </summary>
 
 | App Name                                                | Google Play Link                                                                                                                                                                                                     |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,6 +56,8 @@
 | AZ-900 Azure Fundamental Notes And Practice Exams       | <a href="https://play.google.com/store/apps/details?id=com.azurefundamentals"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 4" width="140"></a>              |
 | AWS Solutions Architect SAA-03 Notes And Practice Exams | <a href="https://play.google.com/store/apps/details?id=com.awssolutionsarchitectassociate"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 5" width="140"></a> |
 | AnimeWalls: Anime Wallpaper Downloader                  | <a href="https://play.google.com/store/apps/details?id=com.anime_wallpaper.nk"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 1" width="140"></a>             |
+
+</details>
 
 ## ✨GitHub Stats
 
