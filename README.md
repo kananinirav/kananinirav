@@ -55,7 +55,6 @@
 | AWS Developer Associate Notes And Practice Exams        | <a href="https://play.google.com/store/apps/details?id=com.awsdeveloperassociate"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 3" width="140"></a>          |
 | AZ-900 Azure Fundamental Notes And Practice Exams       | <a href="https://play.google.com/store/apps/details?id=com.azurefundamentals"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 4" width="140"></a>              |
 | AWS Solutions Architect SAA-03 Notes And Practice Exams | <a href="https://play.google.com/store/apps/details?id=com.awssolutionsarchitectassociate"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 5" width="140"></a> |
-| AnimeWalls: Anime Wallpaper Downloader                  | <a href="https://play.google.com/store/apps/details?id=com.anime_wallpaper.nk"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="App 1" width="140"></a>             |
 
 </details>
 
