@@ -22,6 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [The Power of SEO: How my website ranked higher in just 48 hours](https://medium.com/@kanani-nirav/the-power-of-seo-how-my-website-ranked-higher-in-just-48-hours-cb1f8d2ceeca?source=rss-9ad7dce5400b------2)
 - [YouTube AdBlocker Extension: Ultimate Solution to Blocking Ads on Chrome, Microsoft Edge, Firefox](https://medium.com/@kanani-nirav/youtube-adblocker-extension-ultimate-solution-to-blocking-ads-on-chrome-microsoft-edge-firefox-6ab5567a9a93?source=rss-9ad7dce5400b------2)
 - [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://blog.devgenius.io/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-be6f7991df24?source=rss-9ad7dce5400b------2)
 - [The Ultimate Markdown Cheat Sheet: A Blogger’s Best Friend](https://medium.com/@kanani-nirav/the-ultimate-markdown-cheat-sheet-a-bloggers-best-friend-e8d0c2594dcc?source=rss-9ad7dce5400b------2)
@@ -31,7 +32,6 @@
 - [Secret To Optimizing SQL Queries — Understand The SQL Execution Order](https://blog.devgenius.io/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-afda6788e537?source=rss-9ad7dce5400b------2)
 - [Git Cheat Sheet: Essential Commands for Effective Code Management](https://blog.devgenius.io/git-cheat-sheet-essential-commands-for-effective-code-management-82ce06f3e70b?source=rss-9ad7dce5400b------2)
 - [How to Monitor and Alert Docker Container Status on EC2 for High Availability](https://medium.com/cloud-native-daily/how-to-monitor-and-alert-docker-container-status-on-ec2-for-high-availability-475b0b65e04?source=rss-9ad7dce5400b------2)
-- [The Five Lines of Code Principle: Why Less is More in Programming](https://medium.com/@kanani-nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-12ff4446205?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
 🔗 **[For More Blogs](https://medium.com/@kanani-nirav)**
 
