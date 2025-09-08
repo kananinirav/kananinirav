@@ -22,8 +22,8 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [How to encrypt existing columns in a Ruby on Rails app with zero downtime](https://medium.com/@kanani-nirav/how-to-encrypt-existing-columns-in-a-ruby-on-rails-app-with-zero-downtime-5ab4f194b372?source=rss-9ad7dce5400b------2)
-- [The Power of SEO: How my website ranked higher in just 48 hours](https://medium.com/@kanani-nirav/the-power-of-seo-how-my-website-ranked-higher-in-just-48-hours-cb1f8d2ceeca?source=rss-9ad7dce5400b------2)
+- [How to encrypt existing columns in a Ruby on Rails app with zero downtime](https://blog.stackademic.com/how-to-encrypt-existing-columns-in-a-ruby-on-rails-app-with-zero-downtime-5ab4f194b372?source=rss-9ad7dce5400b------2)
+- [The Power of SEO: How my website ranked higher in just 48 hours](https://blog.stackademic.com/the-power-of-seo-how-my-website-ranked-higher-in-just-48-hours-cb1f8d2ceeca?source=rss-9ad7dce5400b------2)
 - [YouTube AdBlocker Extension: Ultimate Solution to Blocking Ads on Chrome, Microsoft Edge, Firefox](https://medium.com/@kanani-nirav/youtube-adblocker-extension-ultimate-solution-to-blocking-ads-on-chrome-microsoft-edge-firefox-6ab5567a9a93?source=rss-9ad7dce5400b------2)
 - [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://blog.devgenius.io/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-be6f7991df24?source=rss-9ad7dce5400b------2)
 - [The Ultimate Markdown Cheat Sheet: A Blogger’s Best Friend](https://medium.com/@kanani-nirav/the-ultimate-markdown-cheat-sheet-a-bloggers-best-friend-e8d0c2594dcc?source=rss-9ad7dce5400b------2)
