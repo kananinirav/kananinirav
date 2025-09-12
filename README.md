@@ -44,6 +44,18 @@
 <a href="https://twitter.com/kananinirav1" target="blank"><img align="center" src="./icons/twitter.svg" alt="kananinirav1" height="30" width="40" /></a>
 </p>
 
+## 🚀 My Published APIs on RapidAPI
+
+- [**snapiinsta**](https://rapidapi.com/kananinirav0/api/snapiinsta)  
+  Instagram media downloader API to easily download photos, videos, reels, etc. in HD
+
+- [**IP Geolocation Find IP Location and Info API**](https://rapidapi.com/kananinirav0/api/ip-geolocation-find-ip-location-and-ip-info1)  
+  Get detailed geolocation and network information for any IPv4 or IPv6 address.
+
+- [**Email verification API**](https://rapidapi.com/kananinirav0/api/email-verification-api6)  
+  Powerful email validation API with format, domain, MX, blacklist checks, and Gravatar profile link.
+
+
 ## ✨GitHub Stats
 
 <div align="center">
