@@ -29,7 +29,7 @@
 - [The Ultimate Markdown Cheat Sheet: A Blogger’s Best Friend](https://medium.com/@kanani-nirav/the-ultimate-markdown-cheat-sheet-a-bloggers-best-friend-e8d0c2594dcc?source=rss-9ad7dce5400b------2)
 - [Monorepo vs Microrepo: How to Choose the Best Repository Structure for Your Code](https://blog.devgenius.io/monorepo-vs-microrepo-how-to-choose-the-best-repository-structure-for-your-code-6a85ff14390?source=rss-9ad7dce5400b------2)
 - [GitLab Dev Deletes Entire Production Database](https://medium.com/@kanani-nirav/gitlab-dev-deletes-entire-production-database-719756f4a2ce?source=rss-9ad7dce5400b------2)
-- [ChatGPT Prompts: A Guide for Developers ‍](https://medium.com/@kanani-nirav/chatgpt-prompts-a-guide-for-developers-367178e83573?source=rss-9ad7dce5400b------2)
+- [ChatGPT Prompts: A Guide for Developers ‍](https://blog.stackademic.com/chatgpt-prompts-a-guide-for-developers-367178e83573?source=rss-9ad7dce5400b------2)
 - [Secret To Optimizing SQL Queries — Understand The SQL Execution Order](https://blog.devgenius.io/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-afda6788e537?source=rss-9ad7dce5400b------2)
 - [Git Cheat Sheet: Essential Commands for Effective Code Management](https://blog.devgenius.io/git-cheat-sheet-essential-commands-for-effective-code-management-82ce06f3e70b?source=rss-9ad7dce5400b------2)
 <!-- BLOG-POST-LIST:END -->
