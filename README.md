@@ -22,7 +22,7 @@
 
 ## 📚 Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Outage 2025: Root Cause Analysis &amp; Lessons Learned](https://medium.com/@kanani-nirav/cloudflare-outage-2025-root-cause-analysis-lessons-learned-02031226ab2b?source=rss-9ad7dce5400b------2)
+- [Cloudflare Outage 2025: Root Cause Analysis &amp; Lessons Learned](https://blog.devgenius.io/cloudflare-outage-2025-root-cause-analysis-lessons-learned-02031226ab2b?source=rss-9ad7dce5400b------2)
 - [How to encrypt existing columns in a Ruby on Rails app with zero downtime](https://blog.stackademic.com/how-to-encrypt-existing-columns-in-a-ruby-on-rails-app-with-zero-downtime-5ab4f194b372?source=rss-9ad7dce5400b------2)
 - [The Power of SEO: How my website ranked higher in just 48 hours](https://blog.stackademic.com/the-power-of-seo-how-my-website-ranked-higher-in-just-48-hours-cb1f8d2ceeca?source=rss-9ad7dce5400b------2)
 - [YouTube AdBlocker Extension: Ultimate Solution to Blocking Ads on Chrome, Microsoft Edge, Firefox](https://medium.com/@kanani-nirav/youtube-adblocker-extension-ultimate-solution-to-blocking-ads-on-chrome-microsoft-edge-firefox-6ab5567a9a93?source=rss-9ad7dce5400b------2)
